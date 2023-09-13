@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif;
+    color: white;
+}
+body{
+    background-image: url("photos/about.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.coming{
+    padding-top: 240px;
+    padding-left: 75px;
+    margin: auto;
+    height: 50%;
+    width: 50%;
+
+} 
+.coming h1{
+    text-align: center;
+    text-decoration: none;
+    font-size: 80px;
+ }
